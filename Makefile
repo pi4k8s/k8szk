@@ -1,6 +1,6 @@
-VERSION=v3
-PROJECT_ID=google_samples
-PROJECT=gcr.io/${PROJECT_ID}
+VERSION=v3.4.14
+PROJECT_ID=pi4k8s
+PROJECT=${PROJECT_ID}
 
 all: build
 
